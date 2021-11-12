@@ -42,7 +42,7 @@ This is window binding meaning that you have to define this or it will return th
 
 5. Why do we need super() in an extended class?
 
-We need super so that the child class is able to pull all of the attributes from parent class.
+We need super so that the child class is able to pull all of the attributes from parent class and use them for itself.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
